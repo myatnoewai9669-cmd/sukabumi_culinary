@@ -1,4 +1,4 @@
-# sukabumi_culinary
+<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/72aac59e-7bf9-4671-ae08-f4615f597681" /># sukabumi_culinary
 ## 1. What you need (tools)
 
 | Tool | Why | Link |
@@ -13,7 +13,7 @@
 **Step 1: Set up Git (first time only).** Open a terminal in VS Code (`Ctrl + ~`) and run:
 ```bash
 git config --global user.name "Myat Noe Wai"
-git config --global user.email "your-github-email@example.com"
+git config --global user.email "https://github.com/myatnoewai9669-cmd/sukabumi_culinary"
 ```
 
 **Step 2: Prepare the project folder** (`C:\xampp\htdocs\Thursday`).
@@ -150,7 +150,7 @@ PHP 8 (PDO) · MySQL / MariaDB · HTML, CSS, vanilla JavaScript · Leaflet · Ho
 4. Copy `config.example.php` to `config.php` and enter your database details.
 5. Create the folders `uploads/main_image`, `uploads/avatars`, `uploads/tourism` and `uploads/food_gallery`.
 6. Open `http://localhost/Thursday/`.
-<img width="1312" height="1199" alt="WhatsApp Image 2026-11-05 at 9 41 21 PM" src="https://github.com/user-attachments/assets/a2c3be1f-3b87-4a35-94bf-231ffc42c435" />
+<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/6e053953-db3b-481d-b34f-33d5bf331cb2" />
 
 ## 🗺️ Roadmap
 - [ ] Admin dashboard (foods, events, orders, users, sales charts)
